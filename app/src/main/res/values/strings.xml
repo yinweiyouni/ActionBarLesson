@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActionBarLesson</string>
+    <string name="action_search">搜索</string>
+    <string name="action_settings">设置</string>
+    <string name="app_childname">子窗口</string>
+    <string name="app_lian">联系人</string>
+</resources>
